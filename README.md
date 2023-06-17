@@ -1,7 +1,8 @@
-[![MasterHead](https://pixabay.com/get/g1db701ceaab1188cf04bcffbb4b95b384ac7a341109cd10fe94f503ab88b3dfb7320416f754fe9ad71028fe50bf7b56f_1280.jpg)]
+![MasterHead](https://pixabay.com/get/g1db701ceaab1188cf04bcffbb4b95b384ac7a341109cd10fe94f503ab88b3dfb7320416f754fe9ad71028fe50bf7b56f_1280.jpg)
 <h1 align="center">Hi 👋, I'm Sahabia Yakubu</h1>
 <h3 align="center">A passionate software engineer from Ghana</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realsahabia" alt="realsahabia" /></a> </p>
 
 - 🌱 I’m currently learning **ALX Software Engineering Program, Havard University CS50x and other web development courses.**
