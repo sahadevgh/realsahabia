@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ALX Software Engineering Program, Havard University CS50x and other web development courses.**
 
-- 👯 I’m looking to collaborate on **open source**
+- 👯 I’m looking to collaborate on **open source projects**
 
 - 📫 How to reach me **yakubukarim12@gmail.com**
 
