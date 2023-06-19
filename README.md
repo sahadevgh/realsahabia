@@ -1,4 +1,4 @@
-![MasterHead](https://pixabay.com/get/g1db701ceaab1188cf04bcffbb4b95b384ac7a341109cd10fe94f503ab88b3dfb7320416f754fe9ad71028fe50bf7b56f_1280.jpg)
+![MasterHead](https://i.imgur.com/uVqRHVP.jpg)
 <h1 align="center">Hi 👋, I'm Sahabia Yakubu</h1>
 <h3 align="center">A passionate software engineer from Ghana</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
