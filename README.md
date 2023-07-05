@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/realsahabia/realsahabia/assets/34670439/9f14853a-12f3-43d8-96bc-e73df366c544)
+![MasterHead](https://github.com/realsahabia/realsahabia/assets/34670439/4a9c2890-fd5a-48d9-ad9f-78554b43cec7)
 <h1 align="center">Hi 👋, I'm Sahabia Yakubu</h1>
 <h3 align="center">A passionate software engineer from Ghana</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
