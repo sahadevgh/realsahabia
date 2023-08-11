@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realsahabia&label=Profile%20views&color=0e75b6&style=flat" alt="realsahabia" /> </p>
 
-- 🌱 I’m currently learning **ALX Software Engineering Program, Havard University CS50x and other web development courses.**
+- 🌱 I’m currently learning **JavaScript Algorithms, Solidity, React and SQL.**
 
-- 👯 I’m looking to collaborate on **open source**
+- 👯 I’m looking to collaborate on **open source projects**
 
 - 📫 How to reach me **yakubukarim12@gmail.com**
 
