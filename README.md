@@ -1,4 +1,3 @@
-![MasterHead](https://github.com/realsahabia/realsahabia/assets/34670439/4a9c2890-fd5a-48d9-ad9f-78554b43cec7)
 <h1 align="center">Hi 👋, I'm Sahabia Yakubu</h1>
 <h3 align="center">I am a passionate Web developer from Ghana</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/realsahabia/realsahabia/assets/34670439/89ad2c4e-9f59-4dfa-9440-f60f08fce5c7">
