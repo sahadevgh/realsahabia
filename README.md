@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sahabia Yakubu</h1>
-<h3 align="center">I am a passionate Web developer from Ghana</h3>
+<h3 align="center">I am a passionate developer from Ghana</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/realsahabia/realsahabia/assets/34670439/89ad2c4e-9f59-4dfa-9440-f60f08fce5c7">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realsahabia&label=Profile%20views&color=0e75b6&style=flat" alt="realsahabia" /> </p>
 
 - 🌱 I’m currently learning **Advanced JavaScript Algorithms, Solidity and SQL.**
 
-- 👯 I’m looking to collaborate in **open source projects**
-
-- 📫 How to reach me **yakubukarim12@gmail.com**
+- 📫 How to reach me **sahabia@defiafrica.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
